@@ -1,3 +1,3 @@
 # AWS-website
-This is my firsh git repository
-Author- Shreya Deshpande
+This is my first git repository. 
+ Author- Shreya Deshpande
